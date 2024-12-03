@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"MagicSquare","l":"isMagicSquare(int[][])"},{"p":"<Unnamed>","c":"MagicSquare","l":"MagicSquare()","u":"%3Cinit%3E()"}];updateSearchResults();
+memberSearchIndex = [{"p":"<Unnamed>","c":"UniqueSubarrays","l":"countUniqueSubarrays(int[], int)","u":"countUniqueSubarrays(int[],int)"},{"p":"<Unnamed>","c":"MagicSquare","l":"isMagicSquare(int[][])"},{"p":"<Unnamed>","c":"MagicSquare","l":"MagicSquare()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"UniqueSubarrays","l":"UniqueSubarrays()","u":"%3Cinit%3E()"}];updateSearchResults();
