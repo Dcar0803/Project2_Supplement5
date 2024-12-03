@@ -29,5 +29,16 @@ class Testing {
         assertEquals(2, UniqueSubarrays.countUniqueSubarrays(arr, 6));
         assertEquals(0, UniqueSubarrays.countUniqueSubarrays(arr, 20));
     }//end of test
+	
+	
+	@Test
+    public void testFindLongestPalindrome() {
+		
+        assertEquals("aba", LongestPalindromicSubstring.findLongestPalindrome("babad"));
+        assertEquals("bb", LongestPalindromicSubstring.findLongestPalindrome("cbbd"));
+        assertEquals("a", LongestPalindromicSubstring.findLongestPalindrome("a"));
+        assertEquals("", LongestPalindromicSubstring.findLongestPalindrome(""));
+    
+	}//end of testFindLongestPalindrome
 
 }//end of class
