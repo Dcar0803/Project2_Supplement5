@@ -1,4 +1,21 @@
 public class LongestPalindromicSubstring {
+	
+	/**
+	 * Finds the longest palindromic substring in a given input string.
+	 *
+	 * A palindromic substring is defined as a contiguous sequence of characters
+	 * that reads the same forwards and backwards. This function uses the
+	 * "expand around center" technique to efficiently locate the longest palindrome.
+	 *
+	 * @param s the input string to search for palindromic substrings.
+	 *          The string may be empty but must not be null.
+	 * @return the longest palindromic substring found within the input string.
+	 *
+	 * Edge Cases:
+	 * - Returns an empty string if the input string is empty.
+	 * - Handles single-character strings by returning the input as-is.
+	 * - Considers overlapping palindromic substrings.
+	 */
     
 	
 	public static String findLongestPalindrome(String s) {

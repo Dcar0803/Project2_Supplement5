@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"MagicSquare"},{"p":"<Unnamed>","l":"UniqueSubarrays"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"LongestPalindromicSubstring"},{"p":"<Unnamed>","l":"MagicSquare"},{"p":"<Unnamed>","l":"UniqueSubarrays"}];updateSearchResults();
