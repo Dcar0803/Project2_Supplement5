@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"MagicSquare","l":"isMagicSquare(int[][])"},{"p":"<Unnamed>","c":"MagicSquare","l":"MagicSquare()","u":"%3Cinit%3E()"}];updateSearchResults();
