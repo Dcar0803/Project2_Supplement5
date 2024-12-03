@@ -21,6 +21,13 @@ class Testing {
         assertTrue(MagicSquare.isMagicSquare(magicSquare));
         assertFalse(MagicSquare.isMagicSquare(nonMagicSquare));
     
-	}//end of testIsMagicSquare 
+	}//end of testIsMagicSquare
+	
+	@Test
+    public void testCountUniqueSubarrays() {
+        int[] arr = {1, 2, 3, 4, 2};
+        assertEquals(2, UniqueSubarrays.countUniqueSubarrays(arr, 6));
+        assertEquals(0, UniqueSubarrays.countUniqueSubarrays(arr, 20));
+    }//end of test
 
 }//end of class
